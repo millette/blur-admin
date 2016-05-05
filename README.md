@@ -1,4 +1,4 @@
-# Blur Admin HTML template
+# Blur Admin HTML template [![Dependency Status](https://gemnasium.com/badges/github.com/millette/blur-admin.svg)](https://gemnasium.com/github.com/millette/blur-admin)
 
 Admin template made with ♥ by [Akveo team](http://akveo.com/). Follow us on [Twitter](https://twitter.com/akveo_inc) to get latest news about this template first!
 
